@@ -78,25 +78,25 @@ export const values = [
         id: 1,
         icon: <SiOpenaigym/>,
         title: "Value One",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "Success usually comes to those who are too busy to be looking for it.."
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Value Two",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "f you want something you’ve never had, you must be willing to do something you’ve never done.."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Value Three",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "The body achieves what the mind believes.."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Value Four",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        desc: "Once you are exercising regularly, the hardest thing is to stop it."
     }
 ]
 
@@ -266,7 +266,7 @@ export const plans = [
 
 
 
-const Trainer1 = require('./images/trainer1.jpg')
+const Trainer1 = require('./images/trainer1.jpeg')
 const Trainer2 = require('./images/trainer2.jpg')
 const Trainer3 = require('./images/trainer3.jpg')
 const Trainer4 = require('./images/trainer4.jpg')
@@ -278,42 +278,42 @@ export const trainers = [
     {
         id: 1,
         image: Trainer1,
-        name: 'John Doe',
+        name: 'Punnet Thakran',
         job: 'Aerobic Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 2,
         image: Trainer2,
-        name: 'Daniel vinyo',
+        name: 'Matt Roberts',
         job: 'Speed Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 3,
         image: Trainer3,
-        name: 'Edem Quist',
+        name: 'Louise Parker',
         job: 'Flexibility Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 4,
         image: Trainer4,
-        name: 'Shatta Wale',
+        name: 'Shaun Stafford',
         job: 'Body Composition Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 5,
         image: Trainer5,
-        name: 'Diana Ayi',
+        name: 'Scott Laidler',
         job: 'Circuit Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 6,
         image: Trainer6,
-        name: 'Wayne Carter',
+        name: 'CSS Fitness',
         job: 'Physical Intelligence Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     }

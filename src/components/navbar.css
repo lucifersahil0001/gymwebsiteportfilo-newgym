@@ -1,7 +1,7 @@
 nav{
     height: 5rem;
     width: 100vw; /*100% of the window/browser*/
-    background: var(--color-primary);
+    background: black;
     display: grid; 
     place-items: center;
     position: fixed; /*commnt this to see hiden layers*/

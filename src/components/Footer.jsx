@@ -21,7 +21,7 @@ const Footer = () => {
 					</p>
 					<div className="footer__socials">
 						<a
-							href= "https://www.linkedin.com/in/shaik-zakeer-husaain-317304267"
+							href= "https://www.linkedin.com/in/harsh-gupta0001/"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
@@ -73,7 +73,7 @@ const Footer = () => {
 				</article>
 			</div>
 			<div className="footer__copyright">
-				<small> &copy; Zakeer </small>
+				<small> &copy; Harsh </small>
 			</div>
 		</footer>
 	);
