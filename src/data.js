@@ -280,7 +280,7 @@ export const trainers = [
         image: Trainer1,
         name: 'Punnet Thakran',
         job: 'Aerobic Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+        socials: ['https://www.instagram.com/thakranpuneet.01/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 2,

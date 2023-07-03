@@ -7,7 +7,7 @@ const MainHeader = () => {
 		<header className="main__header">
 			<div className="container main__header-container">
 				<div className="main__header-left">
-					<h4>#100DaysOfWorkout</h4>
+					<h4>#150DaysOfWorkout</h4>
 					<h1>Join The Legends of the Fitness World</h1>
 					<p>
 						Aute nisi adipisicing sunt adipisicing incididunt veniam fugiat
